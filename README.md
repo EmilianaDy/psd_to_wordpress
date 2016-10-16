@@ -1,1 +1,3 @@
-# psd_to_wordpress
+# Resto Theme
+
+Simple Resto theme created according to YT tutorial.
